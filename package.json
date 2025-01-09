@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "name": "octagon",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Damir Dedov",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
